@@ -1,11 +1,11 @@
 # Maintainer: Christian Weber <ChristianWeber802 at gmx dot net>
 
 pkgname=bouncer
-pkgver=0.1.0
+pkgver=0.2.0
 pkgrel=1
 pkgdesc="Close windows gracefully with a timeout."
 arch=('i686' 'x86_64')
-url="https://github.com/TheWebster/bouncers/"
+url="https://github.com/TheWebster/bouncer/"
 license=('custom:BSD')
 depends=('libxcb')
 makedepends=('libxcb')
